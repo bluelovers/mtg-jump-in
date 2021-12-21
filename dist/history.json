@@ -1,0 +1,6109 @@
+{
+  "Innistrad: Crimson Vow": {
+    "Training": [
+      {
+        "name": "Usher of the Fallen",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Parish-Blade Trainee",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Gryff Rider",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Savior of Ollenbock",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Gryffwing Cavalry",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Devoted Paladin",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Homestead Courage",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Valorous Stance",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Sejiri Shelter",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Spooky": [
+      {
+        "name": "Lantern Bearer",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Covetous Castaway",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Baithook Angler",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Overwhelmed Archivist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Organ Hoarder",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Drownyard Amalgam",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Mirrorhall Mimic",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Screaming Swarm",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Strategic Planning",
+        "amount": "1",
+        "set": "AKR"
+      },
+      {
+        "name": "Beyeen Veil",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Soulcipher Board",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Fear of Death",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Bloodthirsty": [
+      {
+        "name": "Voldaren Bloodcaster",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Restless Bloodseeker",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Marauding Blight-Priest",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Desperate Farmer",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Gluttonous Guest",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Bloodcrazed Socialite",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Scion of the Swarm",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Wedding Security",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Pointed Discussion",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Zof Consumption",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Parasitic Grasp",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Defenestrate",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Double Trouble": [
+      {
+        "name": "Fearless Pup",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Teeterpeak Ambusher",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Daybreak Combatants",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Alluring Suitor",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Creepy Puppeteer",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Craven Hulk",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Mounted Dreadknight",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Song-Mad Treachery",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Sure Strike",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Rending Flame",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Burn the Accursed",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Honeymoon Hearse",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Wolf Pack": [
+      {
+        "name": "Ascendant Packleader",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Outland Liberator",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Oakshade Stalker",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Weaver of Blossoms",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Hookhand Mariner",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Infestation Expert",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Wolfkin Outcast",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Sporeback Wolf",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Wolf Strike",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Big Play",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Khalni Ambush",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Howl of the Hunt",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Disturbed": [
+      {
+        "name": "Lantern Bearer",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Drogskol Infantry",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Twinblade Geist",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Kindly Ancestor",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Brine Comber",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Katilda, Dawnhart Martyr",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Heron-Blessed Geist",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Geistwave",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Scattered Thoughts",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Geistlight Snare",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Kabira Takedown",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "",
+        "amount": "1"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Fangs": [
+      {
+        "name": "Voldaren Epicure",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Bloodtithe Harvester",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Gluttonous Guest",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Anje, Maid of Dishonor",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Bat Whisperer",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Falkenrath Celebrants",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Bloodchief's Thirst",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Lacerate Flesh",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Song-Mad Treachery",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Stolen Vitality",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Sanguine Statuette",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Ceremonial Knife",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Tough": [
+      {
+        "name": "Jaspera Sentinel",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Sporeback Wolf",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Catapult Fodder",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Ancient Lumberknot",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Saryth, the Viper's Fang",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Unhallowed Phalanx",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Flourishing Hunter",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Tangled Florahedron",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Eaten Alive",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Choose Your Weapon",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Bladebrand",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Dormant Grove",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Multitalented": [
+      {
+        "name": "Battlefield Raptor",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Thunderous Orator",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Story Seeker",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Odric, Blood-Cursed",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Tuktuk Rubblefort",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Duelcraft Trainer",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Combat Professor",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Relic Sloth",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Akoum Warrior",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Thundering Rebuke",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Lacerate Flesh",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Beaming Defiance",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Crawlies": [
+      {
+        "name": "Deathbonnet Sprout",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Reclusive Taxidermist",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Vilespawn Spider",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Eccentric Farmer",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Organ Hoarder",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Moldgraf Millipede",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Burrog Befuddler",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Grolnok, the Omnivore",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Mulch",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Khalni Ambush",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Crawling Infestation",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Fear of Death",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ]
+  },
+  "Jump In!": {
+    "Training": [
+      {
+        "name": "Usher of the Fallen",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Parish-Blade Trainee",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Gryff Rider",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Savior of Ollenbock",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Gryffwing Cavalry",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Devoted Paladin",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Homestead Courage",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Valorous Stance",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Sejiri Shelter",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Lost Mine of Phandelver": [
+      {
+        "name": "Ranger's Hawk",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Steadfast Paladin",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cloister Gargoyle",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Nadaar, Selfless Paladin",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Veteran Dungeoneer",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Planar Ally",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Skyclave Cleric",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Rally Maneuver",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Delver's Torch",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Fifty Feet of Rope",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Pacifism",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Bewitching": [
+      {
+        "name": "Gavony Trapper",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Sungold Sentinel",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Candlegrove Witch",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Ritual Guardian",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Duelcraft Trainer",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Devoted Paladin",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Skyclave Cleric",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Homestead Courage",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Ritual of Hope",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Borrowed Time",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Celestial": [
+      {
+        "name": "Youthful Valkyrie",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Righteous Valkyrie",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Angelheart Protector",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Starnheim Aspirant",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Stalwart Valkyrie",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Planar Ally",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Skyclave Cleric",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Pressure Point",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Wings of the Cosmos",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Valkyrie's Sword",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Pacifism",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Borrowed Time",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Legion": [
+      {
+        "name": "Battlefield Raptor",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Sea Gate Banneret",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Clarion Spirit",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Beskir Shieldmate",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Adeline, Resplendent Cathar",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Search Party Captain",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Clarion Cathars",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Devoted Paladin",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Blessed Defiance",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Defend the Campus",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Kabira Takedown",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Borrowed Time",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Spooky": [
+      {
+        "name": "Lantern Bearer",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Covetous Castaway",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Baithook Angler",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Overwhelmed Archivist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Organ Hoarder",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Drownyard Amalgam",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Mirrorhall Mimic",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Screaming Swarm",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Strategic Planning",
+        "amount": "1",
+        "set": "AKR"
+      },
+      {
+        "name": "Beyeen Veil",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Soulcipher Board",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Fear of Death",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Kicker": [
+      {
+        "name": "Coralhelm Chronicler",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Tazeem Roilmage",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cleric of Chill Depths",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cunning Geysermage",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Risen Riptide",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Merfolk Falconer",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Umara Wizard",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Field Research",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Into the Roil",
+        "amount": "1",
+        "set": "CMR"
+      },
+      {
+        "name": "Roost of Drakes",
+        "amount": "2",
+        "set": "ZNR"
+      },
+      {
+        "name": "Bubble Snare",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Wizards": [
+      {
+        "name": "Cyclone Summoner",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Burrog Befuddler",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Soothsayer Adept",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Windrider Wizard",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Clever Conjurer",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Expedition Diviner",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cascade Seer",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Umara Wizard",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Mentor's Guidance",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Bury in Books",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Chilling Trap",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Charmed Sleep",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "High Rolling": [
+      {
+        "name": "Mind Flayer",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Arcane Investigator",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Pixie Guide",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Feywild Trickster",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Scion of Stygia",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Djinni Windseer",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Umara Wizard",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Power of Persuasion",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Bury in Books",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Contact Other Plane",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Spiked Pit Trap",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Charmed Sleep",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Educated": [
+      {
+        "name": "Triskaidekaphile",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Soothsayer Adept",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Cloudkin Seer",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Soulknife Spy",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Inga Rune-Eyes",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Wormhole Serpent",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Umara Wizard",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Winged Words",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Into the Roil",
+        "amount": "1",
+        "set": "CMR"
+      },
+      {
+        "name": "Contact Other Plane",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Wizard Class",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Charmed Sleep",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Bloodthirsty": [
+      {
+        "name": "Voldaren Bloodcaster",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Restless Bloodseeker",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Marauding Blight-Priest",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Desperate Farmer",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Gluttonous Guest",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Bloodcrazed Socialite",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Scion of the Swarm",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Wedding Security",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Pointed Discussion",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Zof Consumption",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Parasitic Grasp",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Defenestrate",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Ordained": [
+      {
+        "name": "Skemfar Shadowsage",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Malakir Blood-Priest",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Elderfang Disciple",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Marauding Blight-Priest",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Taborax, Hope's Demise",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Scion of the Swarm",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Demon's Disciple",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Mind Drain",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Lash of Malice",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Deadly Alliance",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Malakir Rebirth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Relic Vial",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Shambling": [
+      {
+        "name": "Champion of the Perished",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Siege Zombie",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Sepulcher Ghoul",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Hobbling Zombie",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Death-Priest of Myrkul",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Morkrut Behemoth",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "No Way Out",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Crawl from the Cellar",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Infernal Grasp",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Lash of Malice",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Malakir Rebirth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Draugr's Helm",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Tomb of Annihilation": [
+      {
+        "name": "Dungeon Crawler",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Sepulcher Ghoul",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Yuan-Ti Fang-Blade",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Clattering Skeletons",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Zombie Ogre",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Death-Priest of Myrkul",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Acererak the Archlich",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Fates' Reversal",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Infernal Grasp",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Malakir Rebirth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Dungeon Map",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Precipitous Drop",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Sacrificial": [
+      {
+        "name": "Ecstatic Awakener",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Novice Occultist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Vengeful Strangler",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Jerren, Corrupted Bishop",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Morbid Opportunist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Covert Cutpurse",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Morkrut Behemoth",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Grim Bounty",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "No Way Out",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Eaten Alive",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Malakir Rebirth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Warlock Class",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Double Trouble": [
+      {
+        "name": "Fearless Pup",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Teeterpeak Ambusher",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Daybreak Combatants",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Alluring Suitor",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Creepy Puppeteer",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Craven Hulk",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Mounted Dreadknight",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Song-Mad Treachery",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Sure Strike",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Rending Flame",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Burn the Accursed",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Honeymoon Hearse",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Rock and Roll": [
+      {
+        "name": "Brazen Dwarf",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Breakneck Berserker",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Twinscroll Shaman",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Hoarding Ogre",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Delina, Wild Mage",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Swarming Goblins",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Earth-Cult Elemental",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Critical Hit",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Farideh's Fireball",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Kazuul's Fury",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Goblin Morningstar",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Barbarian Class",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Warriors": [
+      {
+        "name": "Fireblade Charger",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Goma Fada Vanguard",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Kargan Intimidator",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Expedition Champion",
+        "amount": "2",
+        "set": "ZNR"
+      },
+      {
+        "name": "Scorch Rider",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Goblin Gang Leader",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Akoum Warrior",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Run Amok",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Heated Debate",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Relic Axe",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Dueling Rapier",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Spellcraft": [
+      {
+        "name": "Thermo-Alchemist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Festival Crasher",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Smoldering Egg",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Tome Shredder",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Storm-Kiln Artist",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Ardent Elementalist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "You See a Pair of Goblins",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Play with Fire",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Stolen Vitality",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Electric Revelation",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Burn the Accursed",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Spikefield Hazard",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Goblins": [
+      {
+        "name": "Goblin Javelineer",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Battle Cry Goblin",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Teeterpeak Ambusher",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Hobgoblin Bandit Lord",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Grotag Night-Runner",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Goblin Gang Leader",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Swarming Goblins",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Improvised Weaponry",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Song-Mad Treachery",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "You See a Pair of Goblins",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Burn the Accursed",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Inordinate Rage",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Wolf Pack": [
+      {
+        "name": "Ascendant Packleader",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Outland Liberator",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Oakshade Stalker",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Weaver of Blossoms",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Hookhand Mariner",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Infestation Expert",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Wolfkin Outcast",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Sporeback Wolf",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Wolf Strike",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Big Play",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Khalni Ambush",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Howl of the Hunt",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Powered Up": [
+      {
+        "name": "Gnarlid Colony",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Vine Gecko",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Taunting Arbormage",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Murasa Sproutling",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Hill Giant Herdgorger",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cragplate Baloth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Tangled Florahedron",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Shadowbeast Sighting",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Rabid Bite",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Vastwood Surge",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Broken Wings",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Might of Murasa",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Landfall": [
+      {
+        "name": "Kazandu Nectarpot",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Territorial Scythecat",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Canopy Baloth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Eccentric Farmer",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Kazandu Stomper",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Scurrid Colony",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Kazandu Mammoth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Rabid Bite",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Roiling Regrowth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Khalni Ambush",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Skyclave Pick-Axe",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Druid Class",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Evolving Wilds",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Elves": [
+      {
+        "name": "Tajuru Blightblade",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Reckless Amplimancer",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Elvish Warmaster",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Taunting Arbormage",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Elderleaf Mentor",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Elturgard Ranger",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Rabid Bite",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "You Meet in a Tavern",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Big Play",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Choose Your Weapon",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Vastwood Fortification",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Elven Bow",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Dead and Buried": [
+      {
+        "name": "Deathbonnet Sprout",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Willow Geist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Gnarlid Colony",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Eccentric Farmer",
+        "amount": "2",
+        "set": "MID"
+      },
+      {
+        "name": "Shadowbeast Sighting",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Rise of the Ants",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Dryad's Revival",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Rabid Bite",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Tapping at the Window",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Bala Ged Recovery",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Big Play",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Disturbed": [
+      {
+        "name": "Lantern Bearer",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Drogskol Infantry",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Twinblade Geist",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Kindly Ancestor",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Brine Comber",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Katilda, Dawnhart Martyr",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Heron-Blessed Geist",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Geistwave",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Scattered Thoughts",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Geistlight Snare",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Kabira Takedown",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "",
+        "amount": "1"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Spirits": [
+      {
+        "name": "Patrician Geist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Shipwreck Sifters",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Covetous Castaway",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Devoted Grafkeeper",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Mourning Patrol",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Overwhelmed Archivist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Galedrifter",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Drownyard Amalgam",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Makindi Stampede",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Rally Maneuver",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Bury in Books",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Bound in Gold",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Dungeon of the Mad Mage": [
+      {
+        "name": "Nadaar, Selfless Paladin",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Ranger's Hawk",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cathar Commando",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cloister Gargoyle",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Hama Pashar, Ruin Seeker",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Veteran Dungeoneer",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Shortcut Seeker",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Planar Ally",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Into the Roil",
+        "amount": "1",
+        "set": "CMR"
+      },
+      {
+        "name": "Sejiri Shelter",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Delver's Torch",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Borrowed Time",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Zombies": [
+      {
+        "name": "Ludevic, Necrogenius",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Bladestitched Skaab",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Siege Zombie",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Falcon Abomination",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Mistwalker",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Organ Hoarder",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Drownyard Amalgam",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Crawl from the Cellar",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Infernal Grasp",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Revenge of the Drowned",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Startle",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Malakir Rebirth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Roguish": [
+      {
+        "name": "Merfolk Windrobber",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Zulaport Duelist",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Soaring Thought-Thief",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Expedition Skulker",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Nimana Skydancer",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Nimana Skitter-Sneak",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Zareth San, the Trickster",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Blackbloom Rogue",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Glacial Grasp",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Bury in Books",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Deadly Alliance",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Mind Carver",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Fangs": [
+      {
+        "name": "Voldaren Epicure",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Bloodtithe Harvester",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Gluttonous Guest",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Anje, Maid of Dishonor",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Bat Whisperer",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Falkenrath Celebrants",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Bloodchief's Thirst",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Lacerate Flesh",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Song-Mad Treachery",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Stolen Vitality",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Sanguine Statuette",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Ceremonial Knife",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Vampires": [
+      {
+        "name": "Florian, Voldaren Scion",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Vampire Socialite",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Falkenrath Perforator",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Stromkirk Bloodthief",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Vampire Spawn",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Death-Priest of Myrkul",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Bat Whisperer",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Mounted Dreadknight",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Mage Hunters' Onslaught",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Run Amok",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Infernal Grasp",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Malakir Rebirth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Party": [
+      {
+        "name": "Zagras, Thief of Heartbeats",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Stonework Packbeast",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Malakir Blood-Priest",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Grotag Bug-Catcher",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Ardent Electromancer",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Grotag Night-Runner",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Thundering Sparkmage",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Scorch Rider",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Akoum Warrior",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Thwart the Grave",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Deadly Alliance",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Ravager's Mace",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Werewolves": [
+      {
+        "name": "Snarling Wolf",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Outland Liberator",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Kessig Naturalist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Bounding Wolf",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Tavern Ruffian",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Burly Breaker",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Tovolar, Dire Overlord",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Pack's Betrayal",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Moonrager's Slash",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Electric Revelation",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Khalni Ambush",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Howl of the Hunt",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Roiling": [
+      {
+        "name": "Brushfire Elemental",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Kazandu Nectarpot",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Territorial Scythecat",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Spitfire Lagac",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Pyroclastic Hellion",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Phylath, World Sculptor",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Roil Eruption",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Roiling Regrowth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Khalni Ambush",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Skyclave Pick-Axe",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Druid Class",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Evolving Wilds",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Humans": [
+      {
+        "name": "Star Pupil",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Katilda, Dawnhart Prime",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Sylvan Shepherd",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Clarion Cathars",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Odric's Outrider",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Elturgard Ranger",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Maja, Bretagard Protector",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Join the Dance",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Makindi Stampede",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Flare of Faith",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Defend the Campus",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Clear Shot",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Doctor": [
+      {
+        "name": "Lunarch Veteran",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Steadfast Paladin",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Trelasarra, Moon Dancer",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Celestial Unicorn",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Honor Troll",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Accomplished Alchemist",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Attended Healer",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Ravenous Lindwurm",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Skyclave Cleric",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Rabid Bite",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Fortifying Draught",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Pacifism",
+        "amount": "1",
+        "set": "ANB"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Silverquill": [
+      {
+        "name": "Shaile, Dean of Radiance",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Star Pupil",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Deathknell Berserker",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Guul Draz Mucklord",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Promising Duskmage",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Dueling Coach",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Tenured Inkcaster",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Exhilarating Elocution",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Subtle Strike",
+        "amount": "1",
+        "set": "KLR"
+      },
+      {
+        "name": "Closing Statement",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Malakir Rebirth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Clerics": [
+      {
+        "name": "Orah, Skyclave Hierophant",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cleric of Life's Bond",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Expedition Healer",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Kor Celebrant",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Marauding Blight-Priest",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Attended Healer",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Pillardrop Rescuer",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Skyclave Cleric",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Grim Bounty",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Expel",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Relic Vial",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cleric Class",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Prismari": [
+      {
+        "name": "Torrent Sculptor",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Campus Guide",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Rootha, Mercurial Artist",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Spectacle Mage",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Prismari Apprentice",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Pigment Storm",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Elemental Masterpiece",
+        "amount": "2",
+        "set": "STX"
+      },
+      {
+        "name": "Cathartic Pyre",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Bury in Books",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Creative Outburst",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Spikefield Hazard",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Sorcerous": [
+      {
+        "name": "Magmatic Channeler",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Arcane Investigator",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Umara Mystic",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Windrider Wizard",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Expedition Diviner",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Rockslide Sorcerer",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Umara Wizard",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Roil Eruption",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Mentor's Guidance",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Pigment Storm",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Chilling Trap",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Into the Roil",
+        "amount": "1",
+        "set": "CMR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Tough": [
+      {
+        "name": "Jaspera Sentinel",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Sporeback Wolf",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Catapult Fodder",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Ancient Lumberknot",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Saryth, the Viper's Fang",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Unhallowed Phalanx",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Flourishing Hunter",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Tangled Florahedron",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Eaten Alive",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Choose Your Weapon",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Bladebrand",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Dormant Grove",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Witherbloom": [
+      {
+        "name": "Froghemoth",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Dina, Soul Steeper",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Prosperous Innkeeper",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Blood Researcher",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Honor Troll",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Professor of Zoomancy",
+        "amount": "2",
+        "set": "STX"
+      },
+      {
+        "name": "Hill Giant Herdgorger",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Mage Duel",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Zof Consumption",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Infuse with Vitality",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Mortality Spear",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Morbid": [
+      {
+        "name": "Novice Occultist",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Grim Wanderer",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Circle of the Moon Druid",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Hobbling Zombie",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Shessra, Death's Whisper",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Death-Priest of Myrkul",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Elturgard Ranger",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Diregraf Rebirth",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Mage Hunters' Onslaught",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Mage Duel",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Malakir Rebirth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Skeletal Swarming",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Multitalented": [
+      {
+        "name": "Battlefield Raptor",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Thunderous Orator",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Story Seeker",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Odric, Blood-Cursed",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Tuktuk Rubblefort",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Duelcraft Trainer",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Combat Professor",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Relic Sloth",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Akoum Warrior",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Thundering Rebuke",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Lacerate Flesh",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Beaming Defiance",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Lorehold": [
+      {
+        "name": "Illustrious Historian",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Stonerise Spirit",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Stonebound Mentor",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Venerable Warsinger",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Fuming Effigy",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Combat Professor",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Quintorius, Field Historian",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Returned Pastcaller",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Homestead Courage",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Sacred Fire",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Heated Debate",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Sejiri Shelter",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Armory": [
+      {
+        "name": "Sea Gate Banneret",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Armory Veteran",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Kargan Warleader",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Akiri, Fearless Voyager",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Stalwart Valkyrie",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Bruenor Battlehammer",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Akoum Warrior",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Heated Debate",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Dwarven Hammer",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Dueling Rapier",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Relic Axe",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Crawlies": [
+      {
+        "name": "Deathbonnet Sprout",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Reclusive Taxidermist",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Vilespawn Spider",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Eccentric Farmer",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Organ Hoarder",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Moldgraf Millipede",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Burrog Befuddler",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Grolnok, the Omnivore",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Mulch",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Khalni Ambush",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Crawling Infestation",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Fear of Death",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Quandrix": [
+      {
+        "name": "Zimone, Quandrix Prodigy",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Gnarlid Colony",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Biomathematician",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Quandrix Cultivator",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Manifestation Sage",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Emergent Sequence",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Leyline Invocation",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Mordenkainen's Polymorph",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Bury in Books",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Eureka Moment",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Decisive Denial",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Khalni Ambush",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ],
+    "Flashback": [
+      {
+        "name": "Dragonsguard Elite",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Quandrix Apprentice",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Quandrix Pledgemage",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Karok Wrangler",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Shadowbeast Sighting",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Leyline Invocation",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Mage Duel",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Dryad's Revival",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Winterthorn Blessing",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Reclaim the Wastes",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Curate",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Secrets of the Key",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Khalni Ambush",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cathar Commando",
+        "appears": "50%"
+      },
+      {
+        "name": "Dwarfhold Champion",
+        "appears": "50%"
+      },
+      {
+        "name": "Estwald Shieldbasher",
+        "appears": "67%"
+      },
+      {
+        "name": "Gavony Silversmith",
+        "appears": "33%"
+      },
+      {
+        "name": "Devoted Paladin",
+        "appears": "67%"
+      },
+      {
+        "name": "Makindi Ox",
+        "appears": "33%"
+      },
+      {
+        "name": "Homestead Courage",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      },
+      {
+        "name": "Bound in Gold",
+        "appears": "50%"
+      }
+    ]
+  }
+}

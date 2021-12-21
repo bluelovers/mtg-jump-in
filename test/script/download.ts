@@ -1,154 +1,181 @@
 import fetch from 'cross-fetch';
 import cheerio from 'cheerio';
-import { outputJSON } from 'fs-extra';
+import { outputJSON, readJSON } from 'fs-extra';
 import { join } from 'path';
 import { __root } from '../__root';
+import * as JumpInRecord from '../../dist/index';
+import { console } from 'debug-color2';
 
-fetch('https://magic.wizards.com/en/articles/archive/magic-digital/mtg-arena-jump-in')
-	.then(res => res.text())
-	.then(html =>
-	{
-		const $ = cheerio.load(html);
+const file_current = join(__root, 'dist', 'index.json');
+const file_history = join(__root, 'dist', 'history.json');
 
-		let _current: string;
+type IJumpInRecord = typeof JumpInRecord;
 
-		let record: Record<string, Record<string, {
-			name: string,
-			amount?: string,
-			set?: string,
-			appears?: string,
-		}[]>> = {};
+(async () =>
+{
 
-		let section: string = 'Jump In!';
+	const history: IJumpInRecord = await readJSON(file_history)
+		.catch(() => readJSON(file_current))
+		.catch(() => ({}))
+	;
 
-		$('.collapsibleBlock .showHideListItems')
-			.each((index, elem) =>
-			{
-				const $root = $(elem);
+	await fetch('https://magic.wizards.com/en/articles/archive/magic-digital/mtg-arena-jump-in')
+		.then(res => res.text())
+		.then(html =>
+		{
+			const $ = cheerio.load(html);
 
-				section = $root.find('h2 em:eq(0)').text();
-				if (!section?.length)
+			let _current: string;
+
+			let record: IJumpInRecord = {};
+
+			let section: string = 'Jump In!';
+
+			$('.collapsibleBlock .showHideListItems')
+				.each((index, elem) =>
 				{
-					section = 'Jump In!';
-				}
+					const $root = $(elem);
 
-				record[section] ??= {};
-
-				const $body = $root.find('.wrapper > div');
-
-				$body.find('.bean_block_deck_list')
-					.each(((index, elemTop) =>
+					section = $root.find('h2 em:eq(0)').text();
+					if (!section?.length)
 					{
-						const _$top = $(elemTop);
+						section = 'Jump In!';
+					}
 
-						_current = _$top.find('.title-deckicon .deck-meta h4').text();
+					record[section] ??= {};
+					history[section] ??= {};
 
-						record[section][_current] = [];
+					const $body = $root.find('.wrapper > div');
 
-						console.log(section, '-', _current);
-
-						let $body = _$top.find('.deck-list-text')
-							.find('.sorted-by-rarity-container, .sorted-by-cost-container, .sorted-by-color-container, .sorted-by-overview-container')
-							.eq(0);
-
-						$body.find('.row:has(.card-name)').each((index, elem) =>
+					$body.find('.bean_block_deck_list')
+						.each(((index, elemTop) =>
 						{
-							const $this = $(elem);
+							const _$top = $(elemTop);
 
-							let amount = $this.find('.card-count').text();
+							_current = _$top.find('.title-deckicon .deck-meta h4').text();
 
-							let $a = $this.find('.card-name a');
+							record[section][_current] = [];
 
-							let set = $a.attr('data-cardexpansion');
-							let name = $a.text();
+							if (history[section][_current])
+							{
+								console.gray.log(section, '-', _current);
+							}
+							else
+							{
+								console.green.log(section, '-', _current);
+							}
 
-							record[section][_current].push({
-								name,
-								amount,
-								set,
-							});
-						});
+							let $body = _$top.find('.deck-list-text')
+								.find('.sorted-by-rarity-container, .sorted-by-cost-container, .sorted-by-color-container, .sorted-by-overview-container')
+								.eq(0);
 
-						const _$top2 = _$top.siblings('script + table').eq(0);
-
-						if (!_$top2.length)
-						{
-							throw new Error()
-						}
-
-						let name: string;
-
-						let idx = 0;
-
-						_$top2.find('tbody > tr > td')
-							.each((index, elem) =>
+							$body.find('.row:has(.card-name)').each((index, elem) =>
 							{
 								const $this = $(elem);
 
-								const $a = $this.find('a');
+								let amount = $this.find('.card-count').text() as any;
 
-								//console.log(name, idx % 2)
+								let $a = $this.find('.card-name a');
 
-								if (idx % 2)
+								let set = $a.attr('data-cardexpansion');
+								let name = $a.text();
+
+								record[section][_current].push({
+									name,
+									amount,
+									set,
+								});
+							});
+
+							const _$top2 = _$top.siblings('script + table').eq(0);
+
+							if (!_$top2.length)
+							{
+								throw new Error()
+							}
+
+							let name: string;
+
+							let idx = 0;
+
+							_$top2.find('tbody > tr > td')
+								.each((index, elem) =>
 								{
-									if (name?.length)
+									const $this = $(elem);
+
+									const $a = $this.find('a');
+
+									//console.log(name, idx % 2)
+
+									if (idx % 2)
 									{
-										let appears = $this.text().trim() as any;
-
-										if (/(\d+%)/.test(appears))
+										if (name?.length)
 										{
-											appears = RegExp.$1;
-										}
-										else
-										{
-											appears = void 0;
-										}
+											let appears = $this.text().trim() as any;
 
-										record[section][_current].push({
-											name,
-											appears,
-										});
+											if (/(\d+%)/.test(appears))
+											{
+												appears = RegExp.$1;
+											}
+											else
+											{
+												appears = void 0;
+											}
 
-										name = void 0;
-									}
-								}
-								else
-								{
-									if ($a.length)
-									{
-										name = $a.text();
+											record[section][_current].push({
+												name,
+												appears,
+											});
+
+											name = void 0;
+										}
 									}
 									else
 									{
-										name = $this.text();
+										if ($a.length)
+										{
+											name = $a.text();
+										}
+										else
+										{
+											name = $this.text();
+										}
+
+										name = name.trim();
+
+										if (name.length <= 1)
+										{
+											name = void 0;
+										}
 									}
 
-									name = name.trim();
+									idx++;
+								})
+							;
 
-									if (name.length <= 1)
-									{
-										name = void 0;
-									}
-								}
+							history[section][_current] = record[section][_current];
 
-								idx++;
-							})
-						;
+						}))
+					;
 
-					}))
-				;
+				})
+			;
 
+			/*
+			console.dir(record, {
+				depth: null,
 			})
-		;
+			 */
 
-		/*
-		console.dir(record, {
-			depth: null,
+			return Promise.all([
+				outputJSON(file_current, record, {
+					spaces: 2,
+				}),
+				outputJSON(file_history, record, {
+					spaces: 2,
+				}),
+			])
 		})
-		 */
+	;
 
-		return outputJSON(join(__root, 'dist', 'index.json'), record, {
-			spaces: 2,
-		})
-	})
-;
+})();

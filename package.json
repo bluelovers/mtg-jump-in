@@ -40,7 +40,7 @@
     "test:mocha": "ynpx --quiet -p ts-node -p mocha mocha -- --require ts-node/register \"!(node_modules)/**/*.{test,spec}.{ts,tsx}\"",
     "test:tsdx": "ynpx @bluelovers/tsdx test --passWithNoTests",
     "build": "ts-node test/script/download",
-    "postbuild": "git commit -m \"build(json): update cache\" ./dist/index.json & echo postbuild",
+    "postbuild": "git commit -m \"build(json): update cache\" ./dist & echo postbuild",
     "build:dts": "ynpx dts-bundle-generator -o ./dist/index.d.ts ./src/index.ts --no-banner & echo build:dts",
     "build:tsdx": "ynpx @bluelovers/tsdx build --target node --name index",
     "ci:install": "yarn --frozen-lockfile",
@@ -76,6 +76,7 @@
     "@types/node": "*",
     "cheerio": "^1.0.0-rc.10",
     "cross-fetch": "^3.1.4",
+    "debug-color2": "^1.2.7",
     "fs-extra": "^10.0.0"
   },
   "peerDependencies": {},
