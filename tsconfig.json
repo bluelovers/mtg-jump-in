@@ -1,4 +1,6 @@
 {
   "extends": "@bluelovers/tsconfig/esm/mapfile.json",
-  "compilerOptions": {}
+  "compilerOptions": {
+    "module": "node12"
+  }
 }

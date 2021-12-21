@@ -45,6 +45,8 @@ fetch('https://magic.wizards.com/en/articles/archive/magic-digital/mtg-arena-jum
 
 						record[section][_current] = [];
 
+						console.log(section, '-', _current);
+
 						let $body = _$top.find('.deck-list-text')
 							.find('.sorted-by-rarity-container, .sorted-by-cost-container, .sorted-by-color-container, .sorted-by-overview-container')
 							.eq(0);
@@ -85,7 +87,7 @@ fetch('https://magic.wizards.com/en/articles/archive/magic-digital/mtg-arena-jum
 
 								const $a = $this.find('a');
 
-								console.log(name, idx % 2)
+								//console.log(name, idx % 2)
 
 								if (idx % 2)
 								{
@@ -139,9 +141,11 @@ fetch('https://magic.wizards.com/en/articles/archive/magic-digital/mtg-arena-jum
 			})
 		;
 
+		/*
 		console.dir(record, {
 			depth: null,
 		})
+		 */
 
 		return outputJSON(join(__root, 'dist', 'index.json'), record, {
 			spaces: 2,
