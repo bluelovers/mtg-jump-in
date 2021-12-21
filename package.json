@@ -1,6 +1,6 @@
 {
   "name": "mtg-jump-in",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "MTG Arena Jump In! Packets Json Data",
   "keywords": [
     "jump-in",
@@ -39,10 +39,11 @@
     "test:jest": "jest --passWithNoTests",
     "test:mocha": "ynpx --quiet -p ts-node -p mocha mocha -- --require ts-node/register \"!(node_modules)/**/*.{test,spec}.{ts,tsx}\"",
     "test:tsdx": "ynpx @bluelovers/tsdx test --passWithNoTests",
+    "posttest": "yarn run build",
     "build": "ts-node test/script/download",
-    "postbuild": "git commit -m \"build(json): update cache\" ./dist & echo postbuild",
     "build:dts": "ynpx dts-bundle-generator -o ./dist/index.d.ts ./src/index.ts --no-banner & echo build:dts",
     "build:tsdx": "ynpx @bluelovers/tsdx build --target node --name index",
+    "postbuild": "git commit -m \"build(json): update cache\" ./dist & echo postbuild",
     "ci:install": "yarn --frozen-lockfile",
     "ci:build": "node test/script/download && yarn run postbuild",
     "npm:publish": "npm publish",
