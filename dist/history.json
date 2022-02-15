@@ -6104,6 +6104,926 @@
         "name": "Bound in Gold",
         "appears": "50%"
       }
+    ],
+    "Balanced": [
+      {
+        "name": "Malakir Rebirth",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Blood Fountain",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Virus Beetle",
+        "amount": "1"
+      },
+      {
+        "name": "Spirited Companion",
+        "amount": "1"
+      },
+      {
+        "name": "Life of Toshiro Umezawa",
+        "amount": "1"
+      },
+      {
+        "name": "Nezumi Bladeblesser",
+        "amount": "1"
+      },
+      {
+        "name": "Circuit Mender",
+        "amount": "1"
+      },
+      {
+        "name": "Kami of Terrible Secrets",
+        "amount": "1"
+      },
+      {
+        "name": "Befriending the Moths",
+        "amount": "1"
+      },
+      {
+        "name": "Naomi, Pillar of Order",
+        "amount": "1"
+      },
+      {
+        "name": "Intercessor's Arrest",
+        "amount": "1"
+      },
+      {
+        "name": "Soul Transfer",
+        "amount": "1"
+      },
+      {
+        "name": "Life of Toshiro Umezawa",
+        "appears": "50%"
+      },
+      {
+        "name": "Nezumi Prowler",
+        "appears": "50%"
+      },
+      {
+        "name": "Circuit Mender",
+        "appears": "67%"
+      },
+      {
+        "name": "Imperial Recovery Unit",
+        "appears": "33%"
+      },
+      {
+        "name": "Blood Fountain",
+        "appears": "67%"
+      },
+      {
+        "name": "Hedgewitch's Mask",
+        "appears": "33%"
+      },
+      {
+        "name": "Intercessor's Arrest",
+        "appears": "50%"
+      },
+      {
+        "name": "Sigarda's Imprisonment",
+        "appears": "50%"
+      }
+    ],
+    "Equipped": [
+      {
+        "name": "Armory Veteran",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Kazuul's Fury",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Dueling Rapier",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Rabbit Battery",
+        "amount": "1"
+      },
+      {
+        "name": "Lizard Blades",
+        "amount": "1"
+      },
+      {
+        "name": "Bronzeplate Boar",
+        "amount": "1"
+      },
+      {
+        "name": "Unstoppable Ogre",
+        "amount": "1"
+      },
+      {
+        "name": "Scrapyard Steelbreaker",
+        "amount": "1"
+      },
+      {
+        "name": "Kami of Industry",
+        "amount": "1"
+      },
+      {
+        "name": "Ironhoof Boar",
+        "amount": "1"
+      },
+      {
+        "name": "Kami's Flare",
+        "amount": "1"
+      },
+      {
+        "name": "Dragonspark Reactor",
+        "amount": "1"
+      },
+      {
+        "name": "Lizard Blades",
+        "appears": "50%"
+      },
+      {
+        "name": "Ogre-Head Helm",
+        "appears": "50%"
+      },
+      {
+        "name": "Unstoppable Ogre",
+        "appears": "50%"
+      },
+      {
+        "name": "Twinscroll Shaman",
+        "appears": "50%"
+      },
+      {
+        "name": "Dueling Rapier",
+        "appears": "50%"
+      },
+      {
+        "name": "Tormentor's Helm",
+        "appears": "25%"
+      },
+      {
+        "name": "Ninja's Kunai",
+        "appears": "25%"
+      }
+    ],
+    "Enchanting": [
+      {
+        "name": "Tangled Florahedron",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Sheltering Boughs",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Generous Visitor",
+        "amount": "1"
+      },
+      {
+        "name": "Weaver of Harmony",
+        "amount": "1"
+      },
+      {
+        "name": "Azusa's Many Journeys",
+        "amount": "1"
+      },
+      {
+        "name": "Bearer of Memory",
+        "amount": "1"
+      },
+      {
+        "name": "Geothermal Kami",
+        "amount": "1"
+      },
+      {
+        "name": "Jukai Preserver",
+        "amount": "1"
+      },
+      {
+        "name": "Blossom Prancer",
+        "amount": "1"
+      },
+      {
+        "name": "Greater Tanuki",
+        "amount": "1"
+      },
+      {
+        "name": "Master's Rebuke",
+        "amount": "1"
+      },
+      {
+        "name": "Season of Renewal",
+        "amount": "1"
+      },
+      {
+        "name": "Weaver of Harmony",
+        "appears": "50%"
+      },
+      {
+        "name": "Kami of Transience",
+        "appears": "50%"
+      },
+      {
+        "name": "Geothermal Kami",
+        "appears": "50%"
+      },
+      {
+        "name": "Harmonious Emergence",
+        "appears": "50%"
+      },
+      {
+        "name": "Blossom Prancer",
+        "appears": "75%"
+      },
+      {
+        "name": "Roaring Earth",
+        "appears": "25%"
+      },
+      {
+        "name": "Sheltering Boughs",
+        "appears": "33%"
+      },
+      {
+        "name": "Commune with Spirits",
+        "appears": "33%"
+      },
+      {
+        "name": "Favor of Jukai",
+        "appears": "34%"
+      }
+    ],
+    "High-Tech": [
+      {
+        "name": "Song-Mad Treachery",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Thirst for Knowledge",
+        "amount": "1",
+        "set": "CMR"
+      },
+      {
+        "name": "Abrade",
+        "amount": "1",
+        "set": "AKR"
+      },
+      {
+        "name": "Iron Apprentice",
+        "amount": "1"
+      },
+      {
+        "name": "Towashi Songshaper",
+        "amount": "1"
+      },
+      {
+        "name": "Enthusiastic Mechanaut",
+        "amount": "1"
+      },
+      {
+        "name": "Mechtitan Core",
+        "amount": "1"
+      },
+      {
+        "name": "Moonfolk Puzzlemaker",
+        "amount": "1"
+      },
+      {
+        "name": "Twinshot Sniper",
+        "amount": "1"
+      },
+      {
+        "name": "Replication Specialist",
+        "amount": "1"
+      },
+      {
+        "name": "Saiba Trespassers",
+        "amount": "1"
+      },
+      {
+        "name": "Experimental Synthesizer",
+        "amount": "1"
+      },
+      {
+        "name": "Iron Apprentice",
+        "appears": "33%"
+      },
+      {
+        "name": "Network Disruptor",
+        "appears": "33%"
+      },
+      {
+        "name": "Simian Sling",
+        "appears": "34%"
+      },
+      {
+        "name": "Towashi Songshaper",
+        "appears": "67%"
+      },
+      {
+        "name": "Armguard Familiar",
+        "appears": "33%"
+      },
+      {
+        "name": "Mechtitan Core",
+        "appears": "75%"
+      },
+      {
+        "name": "Tezzeret, Betrayer of Flesh",
+        "appears": "25%"
+      },
+      {
+        "name": "Moonfolk Puzzlemaker",
+        "appears": "50%"
+      },
+      {
+        "name": "Unstoppable Ogre",
+        "appears": "50%"
+      },
+      {
+        "name": "Saiba Trespassers",
+        "appears": "50%"
+      },
+      {
+        "name": "Mirrorshell Crab",
+        "appears": "50%"
+      },
+      {
+        "name": "Song-Mad Treachery",
+        "appears": "50%"
+      },
+      {
+        "name": "Spikefield Hazard",
+        "appears": "50%"
+      }
+    ],
+    "Mechs": [
+      {
+        "name": "Skyclave Squid",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Cunning Geysermage",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Draugr Thought-Thief",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Whispering Wizard",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Rimeshield Frost Giant",
+        "amount": "1",
+        "set": "AFR"
+      },
+      {
+        "name": "Fading Hope",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Mobilizer Mech",
+        "amount": "1"
+      },
+      {
+        "name": "Mindlink Mech",
+        "amount": "1"
+      },
+      {
+        "name": "Futurist Sentinel",
+        "amount": "1"
+      },
+      {
+        "name": "Tamiyo's Compleation",
+        "amount": "1"
+      },
+      {
+        "name": "Suit Up",
+        "amount": "1"
+      },
+      {
+        "name": "Mech Hangar",
+        "amount": "1"
+      },
+      {
+        "name": "Draugr Thought-Thief",
+        "appears": "50%"
+      },
+      {
+        "name": "Soulknife Spy",
+        "appears": "50%"
+      },
+      {
+        "name": "Whispering Wizard",
+        "appears": "50%"
+      },
+      {
+        "name": "Futurist Operative",
+        "appears": "50%"
+      },
+      {
+        "name": "Mindlink Mech",
+        "appears": "33%"
+      },
+      {
+        "name": "Reckoner Bankbuster",
+        "appears": "34%"
+      },
+      {
+        "name": "Surgehacker Mech",
+        "appears": "33%"
+      },
+      {
+        "name": "Tamiyo's Compleation",
+        "appears": "67%"
+      },
+      {
+        "name": "Revenge of the Drowned",
+        "appears": "33%"
+      }
+    ],
+    "Modified": [
+      {
+        "name": "Guardian Gladewalker",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Vastwood Fortification",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Rabbit Battery",
+        "amount": "1"
+      },
+      {
+        "name": "Akki Ember-Keeper",
+        "amount": "1"
+      },
+      {
+        "name": "Heir of the Ancient Fang",
+        "amount": "1"
+      },
+      {
+        "name": "Bronzeplate Boar",
+        "amount": "1"
+      },
+      {
+        "name": "Thundering Raiju",
+        "amount": "1"
+      },
+      {
+        "name": "Jukai Preserver",
+        "amount": "1"
+      },
+      {
+        "name": "Tales of Master Seshiro",
+        "amount": "1"
+      },
+      {
+        "name": "Invigorating Hot Spring",
+        "amount": "1"
+      },
+      {
+        "name": "Kami's Flare",
+        "amount": "1"
+      },
+      {
+        "name": "Master's Rebuke",
+        "amount": "1"
+      },
+      {
+        "name": "Rabbit Battery",
+        "appears": "50%"
+      },
+      {
+        "name": "Kumano Faces Kakkazan",
+        "appears": "50%"
+      },
+      {
+        "name": "Guardian Gladewalker",
+        "appears": "34%"
+      },
+      {
+        "name": "Coiling Stalker",
+        "appears": "33%"
+      },
+      {
+        "name": "Gnarlid Colony",
+        "appears": "33%"
+      },
+      {
+        "name": "Thundering Raiju",
+        "appears": "67%"
+      },
+      {
+        "name": "Goro-Goro, Disciple of Ryusei",
+        "appears": "33%"
+      },
+      {
+        "name": "Tales of Master Seshiro",
+        "appears": "50%"
+      },
+      {
+        "name": "Moldgraf Millipede",
+        "appears": "25%"
+      },
+      {
+        "name": "Leyline Invocation",
+        "appears": "25%"
+      },
+      {
+        "name": "Invigorating Hot Spring",
+        "appears": "67%"
+      },
+      {
+        "name": "Roaring Earth",
+        "appears": "33%"
+      }
+    ],
+    "Ninjas": [
+      {
+        "name": "Blackbloom Rogue",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Hero's Downfall",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Geistwave",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Network Disruptor",
+        "amount": "1"
+      },
+      {
+        "name": "Moon-Circuit Hacker",
+        "amount": "1"
+      },
+      {
+        "name": "Inkrise Infiltrator",
+        "amount": "1"
+      },
+      {
+        "name": "Silver-Fur Master",
+        "amount": "1"
+      },
+      {
+        "name": "Satoru Umezawa",
+        "amount": "1"
+      },
+      {
+        "name": "Futurist Operative",
+        "amount": "1"
+      },
+      {
+        "name": "Moonsnare Specialist",
+        "amount": "1"
+      },
+      {
+        "name": "Dokuchi Shadow-Walker",
+        "amount": "1"
+      },
+      {
+        "name": "Kaito's Pursuit",
+        "amount": "1"
+      },
+      {
+        "name": "Network Disruptor",
+        "appears": "50%"
+      },
+      {
+        "name": "Brinebarrow Intruder",
+        "appears": "50%"
+      },
+      {
+        "name": "Satoru Umezawa",
+        "appears": "50%"
+      },
+      {
+        "name": "Thousand-Faced Shadow",
+        "appears": "25%"
+      },
+      {
+        "name": "Kaito Shizuki",
+        "appears": "25%"
+      },
+      {
+        "name": "Moonsnare Specialist",
+        "appears": "50%"
+      },
+      {
+        "name": "Saiba Trespassers",
+        "appears": "50%"
+      },
+      {
+        "name": "Dokuchi Shadow-Walker",
+        "appears": "67%"
+      },
+      {
+        "name": "Kami of Restless Shadows",
+        "appears": "33%"
+      },
+      {
+        "name": "Hero's Downfall",
+        "appears": "50%"
+      },
+      {
+        "name": "Infernal Grasp",
+        "appears": "50%"
+      }
+    ],
+    "Sagas": [
+      {
+        "name": "Bala Ged Recovery",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Borrowed Time",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Fall of the Impostor",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Jukai Naturalist",
+        "amount": "1"
+      },
+      {
+        "name": "Era of Enlightenment",
+        "amount": "1"
+      },
+      {
+        "name": "Satsuki, the Living Lore",
+        "amount": "1"
+      },
+      {
+        "name": "Bearer of Memory",
+        "amount": "1"
+      },
+      {
+        "name": "Jukai Preserver",
+        "amount": "1"
+      },
+      {
+        "name": "Befriending the Moths",
+        "amount": "1"
+      },
+      {
+        "name": "Tales of Master Seshiro",
+        "amount": "1"
+      },
+      {
+        "name": "Greater Tanuki",
+        "amount": "1"
+      },
+      {
+        "name": "Storyweave",
+        "amount": "1"
+      },
+      {
+        "name": "Satsuki, the Living Lore",
+        "appears": "75%"
+      },
+      {
+        "name": "Jugan Defends the Temple",
+        "appears": "25%"
+      },
+      {
+        "name": "Greater Tanuki",
+        "appears": "34%"
+      },
+      {
+        "name": "Master Skald",
+        "appears": "33%"
+      },
+      {
+        "name": "Heron-Blessed Geist",
+        "appears": "33%"
+      },
+      {
+        "name": "Fall of the Impostor",
+        "appears": "50%"
+      },
+      {
+        "name": "The Fall of Lord Konda",
+        "appears": "50%"
+      },
+      {
+        "name": "Bala Ged Recovery",
+        "appears": "50%"
+      },
+      {
+        "name": "Sejiri Shelter",
+        "appears": "50%"
+      }
+    ],
+    "Samauri": [
+      {
+        "name": "Usher of the Fallen",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Goldmaw Champion",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Stalwart Valkyrie",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Sejiri Shelter",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Borrowed Time",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Eiganjo Exemplar",
+        "amount": "1"
+      },
+      {
+        "name": "Selfless Samurai",
+        "amount": "1"
+      },
+      {
+        "name": "Imperial Subduer",
+        "amount": "1"
+      },
+      {
+        "name": "The Wandering Emperor",
+        "amount": "1"
+      },
+      {
+        "name": "Sunblade Samurai",
+        "amount": "1"
+      },
+      {
+        "name": "Ancestral Katana",
+        "amount": "1"
+      },
+      {
+        "name": "Wanderer's Intervention",
+        "amount": "1"
+      },
+      {
+        "name": "Selfless Samurai",
+        "appears": "67%"
+      },
+      {
+        "name": "Twinblade Geist",
+        "appears": "33%"
+      },
+      {
+        "name": "The Wandering Emperor",
+        "appears": "50%"
+      },
+      {
+        "name": "The Restoration of Eiganjo",
+        "appears": "50%"
+      },
+      {
+        "name": "Stalwart Valkyrie",
+        "appears": "33%"
+      },
+      {
+        "name": "Seven-Tail Mentor",
+        "appears": "34%"
+      },
+      {
+        "name": "Axgard Braggart",
+        "appears": "33%"
+      },
+      {
+        "name": "Borrowed Time",
+        "appears": "50%"
+      },
+      {
+        "name": "Touch the Spirit Realm",
+        "appears": "50%"
+      }
+    ],
+    "Sneaky": [
+      {
+        "name": "Unwilling Ingredient",
+        "amount": "1",
+        "set": "STX"
+      },
+      {
+        "name": "Blackbloom Rogue",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Hero's Downfall",
+        "amount": "1",
+        "set": "VOW"
+      },
+      {
+        "name": "Nezumi Prowler",
+        "amount": "1"
+      },
+      {
+        "name": "Inkrise Infiltrator",
+        "amount": "1"
+      },
+      {
+        "name": "Biting-Palm Ninja",
+        "amount": "1"
+      },
+      {
+        "name": "Gravelighter",
+        "amount": "1"
+      },
+      {
+        "name": "Mukotai Ambusher",
+        "amount": "1"
+      },
+      {
+        "name": "Kami of Restless Shadows",
+        "amount": "1"
+      },
+      {
+        "name": "Dokuchi Shadow-Walker",
+        "amount": "1"
+      },
+      {
+        "name": "Return to Action",
+        "amount": "1"
+      },
+      {
+        "name": "Kaito's Pursuit",
+        "amount": "1"
+      },
+      {
+        "name": "Nezumi Prowler",
+        "appears": "50%"
+      },
+      {
+        "name": "Dokuchi Silencer",
+        "appears": "50%"
+      },
+      {
+        "name": "Inkrise Infiltrator",
+        "appears": "50%"
+      },
+      {
+        "name": "Ghastly Gloomhunter",
+        "appears": "50%"
+      },
+      {
+        "name": "Biting-Palm Ninja",
+        "appears": "50%"
+      },
+      {
+        "name": "Nashi, Moon Sage's Scion",
+        "appears": "50%"
+      },
+      {
+        "name": "Return to Action",
+        "appears": "50%"
+      },
+      {
+        "name": "You Are Already Dead",
+        "appears": "50%"
+      },
+      {
+        "name": "Hero's Downfall",
+        "appears": "50%"
+      },
+      {
+        "name": "Infernal Grasp",
+        "appears": "50%"
+      }
     ]
   }
 }

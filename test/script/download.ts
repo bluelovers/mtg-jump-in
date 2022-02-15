@@ -5,6 +5,7 @@ import { join } from 'path';
 import { __root } from '../__root';
 import * as JumpInRecord from '../../dist/index';
 import { console } from 'debug-color2';
+import Cheerio = cheerio.Cheerio;
 
 const file_current = join(__root, 'dist', 'index.json');
 const file_history = join(__root, 'dist', 'history.json');
@@ -19,7 +20,9 @@ type IJumpInRecord = typeof JumpInRecord;
 		.catch(() => ({}))
 	;
 
-	await fetch('https://magic.wizards.com/en/articles/archive/magic-digital/mtg-arena-jump-in')
+	await fetch('https://magic.wizards.com/en/articles/archive/magic-digital/mtg-arena-jump-in', {
+		redirect: 'follow',
+	})
 		.then(res => res.text())
 		.then(html =>
 		{
@@ -31,21 +34,39 @@ type IJumpInRecord = typeof JumpInRecord;
 
 			let section: string = 'Jump In!';
 
-			$('.collapsibleBlock .showHideListItems')
+			let sectionElem = $('.collapsibleBlock .showHideListItems');
+
+			if (!sectionElem.length)
+			{
+				if ($('#content-detail-page-of-an-article > .bean_block_deck_list.bean--wiz-content-deck-list').length > 0)
+				{
+					sectionElem = $('#content-detail-page-of-an-article');
+				}
+			}
+
+			sectionElem
 				.each((index, elem) =>
 				{
 					const $root = $(elem);
+					let $body: Cheerio;
 
-					section = $root.find('h2 em:eq(0)').text();
-					if (!section?.length)
+					if ($root.is('#content-detail-page-of-an-article'))
 					{
-						section = 'Jump In!';
+						$body = $root;
+					}
+					else
+					{
+						section = $root.find('h2 em:eq(0)').text();
+						if (!section?.length)
+						{
+							section = 'Jump In!';
+						}
+
+						$body = $root.find('.wrapper > div');
 					}
 
 					record[section] ??= {};
 					history[section] ??= {};
-
-					const $body = $root.find('.wrapper > div');
 
 					$body.find('.bean_block_deck_list')
 						.each(((index, elemTop) =>
@@ -77,17 +98,25 @@ type IJumpInRecord = typeof JumpInRecord;
 
 								let $a = $this.find('.card-name a');
 
+								if (!$a.length)
+								{
+									$a = $this.find('.card-name');
+								}
+
 								let set = $a.attr('data-cardexpansion');
 								let name = $a.text();
 
-								record[section][_current].push({
-									name,
-									amount,
-									set,
-								});
+								if (name?.length)
+								{
+									record[section][_current].push({
+										name,
+										amount,
+										set,
+									});
+								}
 							});
 
-							const _$top2 = _$top.siblings('script + table').eq(0);
+							const _$top2 = _$top.nextAll('script + table').eq(0);
 
 							if (!_$top2.length)
 							{
@@ -161,6 +190,11 @@ type IJumpInRecord = typeof JumpInRecord;
 				})
 			;
 
+			if (!Object.keys(record).length)
+			{
+				throw new Error(`can't parse any packet lists`)
+			}
+
 			/*
 			console.dir(record, {
 				depth: null,
@@ -171,7 +205,7 @@ type IJumpInRecord = typeof JumpInRecord;
 				outputJSON(file_current, record, {
 					spaces: 2,
 				}),
-				outputJSON(file_history, record, {
+				outputJSON(file_history, history, {
 					spaces: 2,
 				}),
 			])

@@ -15,24 +15,38 @@ const file_history = (0, path_1.join)(__root_1.__root, 'dist', 'history.json');
     const history = await (0, fs_extra_1.readJSON)(file_history)
         .catch(() => (0, fs_extra_1.readJSON)(file_current))
         .catch(() => ({}));
-    await (0, cross_fetch_1.default)('https://magic.wizards.com/en/articles/archive/magic-digital/mtg-arena-jump-in')
+    await (0, cross_fetch_1.default)('https://magic.wizards.com/en/articles/archive/magic-digital/mtg-arena-jump-in', {
+        redirect: 'follow',
+    })
         .then(res => res.text())
         .then(html => {
         const $ = cheerio_1.default.load(html);
         let _current;
         let record = {};
         let section = 'Jump In!';
-        $('.collapsibleBlock .showHideListItems')
+        let sectionElem = $('.collapsibleBlock .showHideListItems');
+        if (!sectionElem.length) {
+            if ($('#content-detail-page-of-an-article > .bean_block_deck_list.bean--wiz-content-deck-list').length > 0) {
+                sectionElem = $('#content-detail-page-of-an-article');
+            }
+        }
+        sectionElem
             .each((index, elem) => {
             var _a, _b;
             const $root = $(elem);
-            section = $root.find('h2 em:eq(0)').text();
-            if (!(section === null || section === void 0 ? void 0 : section.length)) {
-                section = 'Jump In!';
+            let $body;
+            if ($root.is('#content-detail-page-of-an-article')) {
+                $body = $root;
+            }
+            else {
+                section = $root.find('h2 em:eq(0)').text();
+                if (!(section === null || section === void 0 ? void 0 : section.length)) {
+                    section = 'Jump In!';
+                }
+                $body = $root.find('.wrapper > div');
             }
             (_a = record[section]) !== null && _a !== void 0 ? _a : (record[section] = {});
             (_b = history[section]) !== null && _b !== void 0 ? _b : (history[section] = {});
-            const $body = $root.find('.wrapper > div');
             $body.find('.bean_block_deck_list')
                 .each(((index, elemTop) => {
                 const _$top = $(elemTop);
@@ -51,15 +65,20 @@ const file_history = (0, path_1.join)(__root_1.__root, 'dist', 'history.json');
                     const $this = $(elem);
                     let amount = $this.find('.card-count').text();
                     let $a = $this.find('.card-name a');
+                    if (!$a.length) {
+                        $a = $this.find('.card-name');
+                    }
                     let set = $a.attr('data-cardexpansion');
                     let name = $a.text();
-                    record[section][_current].push({
-                        name,
-                        amount,
-                        set,
-                    });
+                    if (name === null || name === void 0 ? void 0 : name.length) {
+                        record[section][_current].push({
+                            name,
+                            amount,
+                            set,
+                        });
+                    }
                 });
-                const _$top2 = _$top.siblings('script + table').eq(0);
+                const _$top2 = _$top.nextAll('script + table').eq(0);
                 if (!_$top2.length) {
                     throw new Error();
                 }
@@ -103,6 +122,9 @@ const file_history = (0, path_1.join)(__root_1.__root, 'dist', 'history.json');
                 history[section][_current] = record[section][_current];
             }));
         });
+        if (!Object.keys(record).length) {
+            throw new Error(`can't parse any packet lists`);
+        }
         /*
         console.dir(record, {
             depth: null,
@@ -112,7 +134,7 @@ const file_history = (0, path_1.join)(__root_1.__root, 'dist', 'history.json');
             (0, fs_extra_1.outputJSON)(file_current, record, {
                 spaces: 2,
             }),
-            (0, fs_extra_1.outputJSON)(file_history, record, {
+            (0, fs_extra_1.outputJSON)(file_history, history, {
                 spaces: 2,
             }),
         ]);
