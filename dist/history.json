@@ -6107,6 +6107,41 @@
     ],
     "Balanced": [
       {
+        "name": "Virus Beetle",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Spirited Companion",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Nezumi Bladeblesser",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Circuit Mender",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Kami of Terrible Secrets",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Naomi, Pillar of Order",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Soul Transfer",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Malakir Rebirth",
         "amount": "1",
         "set": "ZNR"
@@ -6117,44 +6152,19 @@
         "set": "VOW"
       },
       {
-        "name": "Virus Beetle",
-        "amount": "1"
-      },
-      {
-        "name": "Spirited Companion",
-        "amount": "1"
-      },
-      {
         "name": "Life of Toshiro Umezawa",
-        "amount": "1"
-      },
-      {
-        "name": "Nezumi Bladeblesser",
-        "amount": "1"
-      },
-      {
-        "name": "Circuit Mender",
-        "amount": "1"
-      },
-      {
-        "name": "Kami of Terrible Secrets",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Befriending the Moths",
-        "amount": "1"
-      },
-      {
-        "name": "Naomi, Pillar of Order",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Intercessor's Arrest",
-        "amount": "1"
-      },
-      {
-        "name": "Soul Transfer",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Life of Toshiro Umezawa",
@@ -6191,9 +6201,49 @@
     ],
     "Equipped": [
       {
+        "name": "Rabbit Battery",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Armory Veteran",
         "amount": "1",
         "set": "AFR"
+      },
+      {
+        "name": "Lizard Blades",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Bronzeplate Boar",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Unstoppable Ogre",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Scrapyard Steelbreaker",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Kami of Industry",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Ironhoof Boar",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Kami's Flare",
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Kazuul's Fury",
@@ -6206,40 +6256,9 @@
         "set": "AFR"
       },
       {
-        "name": "Rabbit Battery",
-        "amount": "1"
-      },
-      {
-        "name": "Lizard Blades",
-        "amount": "1"
-      },
-      {
-        "name": "Bronzeplate Boar",
-        "amount": "1"
-      },
-      {
-        "name": "Unstoppable Ogre",
-        "amount": "1"
-      },
-      {
-        "name": "Scrapyard Steelbreaker",
-        "amount": "1"
-      },
-      {
-        "name": "Kami of Industry",
-        "amount": "1"
-      },
-      {
-        "name": "Ironhoof Boar",
-        "amount": "1"
-      },
-      {
-        "name": "Kami's Flare",
-        "amount": "1"
-      },
-      {
         "name": "Dragonspark Reactor",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Lizard Blades",
@@ -6272,54 +6291,64 @@
     ],
     "Enchanting": [
       {
+        "name": "Generous Visitor",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Weaver of Harmony",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Bearer of Memory",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Geothermal Kami",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Jukai Preserver",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Blossom Prancer",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Greater Tanuki",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Tangled Florahedron",
         "amount": "1",
         "set": "ZNR"
       },
       {
-        "name": "Sheltering Boughs",
-        "amount": "1",
-        "set": "VOW"
-      },
-      {
-        "name": "Generous Visitor",
-        "amount": "1"
-      },
-      {
-        "name": "Weaver of Harmony",
-        "amount": "1"
-      },
-      {
-        "name": "Azusa's Many Journeys",
-        "amount": "1"
-      },
-      {
-        "name": "Bearer of Memory",
-        "amount": "1"
-      },
-      {
-        "name": "Geothermal Kami",
-        "amount": "1"
-      },
-      {
-        "name": "Jukai Preserver",
-        "amount": "1"
-      },
-      {
-        "name": "Blossom Prancer",
-        "amount": "1"
-      },
-      {
-        "name": "Greater Tanuki",
-        "amount": "1"
-      },
-      {
         "name": "Master's Rebuke",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Season of Renewal",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Azusa's Many Journeys",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Sheltering Boughs",
+        "amount": "1",
+        "set": "VOW"
       },
       {
         "name": "Weaver of Harmony",
@@ -6360,6 +6389,41 @@
     ],
     "High-Tech": [
       {
+        "name": "Iron Apprentice",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Towashi Songshaper",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Enthusiastic Mechanaut",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Moonfolk Puzzlemaker",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Twinshot Sniper",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Replication Specialist",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Saiba Trespassers",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Song-Mad Treachery",
         "amount": "1",
         "set": "ZNR"
@@ -6367,7 +6431,7 @@
       {
         "name": "Thirst for Knowledge",
         "amount": "1",
-        "set": "CMR"
+        "set": "NEO"
       },
       {
         "name": "Abrade",
@@ -6375,40 +6439,14 @@
         "set": "AKR"
       },
       {
-        "name": "Iron Apprentice",
-        "amount": "1"
-      },
-      {
-        "name": "Towashi Songshaper",
-        "amount": "1"
-      },
-      {
-        "name": "Enthusiastic Mechanaut",
-        "amount": "1"
-      },
-      {
         "name": "Mechtitan Core",
-        "amount": "1"
-      },
-      {
-        "name": "Moonfolk Puzzlemaker",
-        "amount": "1"
-      },
-      {
-        "name": "Twinshot Sniper",
-        "amount": "1"
-      },
-      {
-        "name": "Replication Specialist",
-        "amount": "1"
-      },
-      {
-        "name": "Saiba Trespassers",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Experimental Synthesizer",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Iron Apprentice",
@@ -6495,28 +6533,34 @@
         "set": "MID"
       },
       {
+        "name": "Suit Up",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Mobilizer Mech",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Mindlink Mech",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Futurist Sentinel",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Tamiyo's Compleation",
-        "amount": "1"
-      },
-      {
-        "name": "Suit Up",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Mech Hangar",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Draugr Thought-Thief",
@@ -6557,9 +6601,49 @@
     ],
     "Modified": [
       {
+        "name": "Rabbit Battery",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Guardian Gladewalker",
         "amount": "1",
         "set": "KHM"
+      },
+      {
+        "name": "Akki Ember-Keeper",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Heir of the Ancient Fang",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Bronzeplate Boar",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Thundering Raiju",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Jukai Preserver",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Kami's Flare",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Master's Rebuke",
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Vastwood Fortification",
@@ -6567,44 +6651,14 @@
         "set": "ZNR"
       },
       {
-        "name": "Rabbit Battery",
-        "amount": "1"
-      },
-      {
-        "name": "Akki Ember-Keeper",
-        "amount": "1"
-      },
-      {
-        "name": "Heir of the Ancient Fang",
-        "amount": "1"
-      },
-      {
-        "name": "Bronzeplate Boar",
-        "amount": "1"
-      },
-      {
-        "name": "Thundering Raiju",
-        "amount": "1"
-      },
-      {
-        "name": "Jukai Preserver",
-        "amount": "1"
-      },
-      {
         "name": "Tales of Master Seshiro",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Invigorating Hot Spring",
-        "amount": "1"
-      },
-      {
-        "name": "Kami's Flare",
-        "amount": "1"
-      },
-      {
-        "name": "Master's Rebuke",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Rabbit Battery",
@@ -6657,9 +6711,54 @@
     ],
     "Ninjas": [
       {
+        "name": "Network Disruptor",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Moon-Circuit Hacker",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Inkrise Infiltrator",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Silver-Fur Master",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Satoru Umezawa",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Futurist Operative",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Moonsnare Specialist",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Dokuchi Shadow-Walker",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Blackbloom Rogue",
         "amount": "1",
         "set": "ZNR"
+      },
+      {
+        "name": "Kaito's Pursuit",
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Hero's Downfall",
@@ -6670,42 +6769,6 @@
         "name": "Geistwave",
         "amount": "1",
         "set": "MID"
-      },
-      {
-        "name": "Network Disruptor",
-        "amount": "1"
-      },
-      {
-        "name": "Moon-Circuit Hacker",
-        "amount": "1"
-      },
-      {
-        "name": "Inkrise Infiltrator",
-        "amount": "1"
-      },
-      {
-        "name": "Silver-Fur Master",
-        "amount": "1"
-      },
-      {
-        "name": "Satoru Umezawa",
-        "amount": "1"
-      },
-      {
-        "name": "Futurist Operative",
-        "amount": "1"
-      },
-      {
-        "name": "Moonsnare Specialist",
-        "amount": "1"
-      },
-      {
-        "name": "Dokuchi Shadow-Walker",
-        "amount": "1"
-      },
-      {
-        "name": "Kaito's Pursuit",
-        "amount": "1"
       },
       {
         "name": "Network Disruptor",
@@ -6754,9 +6817,54 @@
     ],
     "Sagas": [
       {
+        "name": "Jukai Naturalist",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Satsuki, the Living Lore",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Bearer of Memory",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Jukai Preserver",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Greater Tanuki",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Bala Ged Recovery",
         "amount": "1",
         "set": "ZNR"
+      },
+      {
+        "name": "Storyweave",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Era of Enlightenment",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Befriending the Moths",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Tales of Master Seshiro",
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Borrowed Time",
@@ -6767,42 +6875,6 @@
         "name": "Fall of the Impostor",
         "amount": "1",
         "set": "KHM"
-      },
-      {
-        "name": "Jukai Naturalist",
-        "amount": "1"
-      },
-      {
-        "name": "Era of Enlightenment",
-        "amount": "1"
-      },
-      {
-        "name": "Satsuki, the Living Lore",
-        "amount": "1"
-      },
-      {
-        "name": "Bearer of Memory",
-        "amount": "1"
-      },
-      {
-        "name": "Jukai Preserver",
-        "amount": "1"
-      },
-      {
-        "name": "Befriending the Moths",
-        "amount": "1"
-      },
-      {
-        "name": "Tales of Master Seshiro",
-        "amount": "1"
-      },
-      {
-        "name": "Greater Tanuki",
-        "amount": "1"
-      },
-      {
-        "name": "Storyweave",
-        "amount": "1"
       },
       {
         "name": "Satsuki, the Living Lore",
@@ -6843,9 +6915,29 @@
     ],
     "Samauri": [
       {
+        "name": "The Wandering Emperor",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Usher of the Fallen",
         "amount": "1",
         "set": "KHM"
+      },
+      {
+        "name": "Eiganjo Exemplar",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Selfless Samurai",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Imperial Subduer",
+        "amount": "1",
+        "set": "NEO"
       },
       {
         "name": "Goldmaw Champion",
@@ -6858,42 +6950,29 @@
         "set": "KHM"
       },
       {
+        "name": "Sunblade Samurai",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Wanderer's Intervention",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Sejiri Shelter",
         "amount": "1",
         "set": "ZNR"
       },
       {
+        "name": "Ancestral Katana",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Borrowed Time",
         "amount": "1",
         "set": "MID"
-      },
-      {
-        "name": "Eiganjo Exemplar",
-        "amount": "1"
-      },
-      {
-        "name": "Selfless Samurai",
-        "amount": "1"
-      },
-      {
-        "name": "Imperial Subduer",
-        "amount": "1"
-      },
-      {
-        "name": "The Wandering Emperor",
-        "amount": "1"
-      },
-      {
-        "name": "Sunblade Samurai",
-        "amount": "1"
-      },
-      {
-        "name": "Ancestral Katana",
-        "amount": "1"
-      },
-      {
-        "name": "Wanderer's Intervention",
-        "amount": "1"
       },
       {
         "name": "Selfless Samurai",
@@ -6939,50 +7018,59 @@
         "set": "STX"
       },
       {
+        "name": "Nezumi Prowler",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Inkrise Infiltrator",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Biting-Palm Ninja",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Gravelighter",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Mukotai Ambusher",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Kami of Restless Shadows",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Dokuchi Shadow-Walker",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
         "name": "Blackbloom Rogue",
         "amount": "1",
         "set": "ZNR"
       },
       {
-        "name": "Hero's Downfall",
+        "name": "Kaito's Pursuit",
         "amount": "1",
-        "set": "VOW"
-      },
-      {
-        "name": "Nezumi Prowler",
-        "amount": "1"
-      },
-      {
-        "name": "Inkrise Infiltrator",
-        "amount": "1"
-      },
-      {
-        "name": "Biting-Palm Ninja",
-        "amount": "1"
-      },
-      {
-        "name": "Gravelighter",
-        "amount": "1"
-      },
-      {
-        "name": "Mukotai Ambusher",
-        "amount": "1"
-      },
-      {
-        "name": "Kami of Restless Shadows",
-        "amount": "1"
-      },
-      {
-        "name": "Dokuchi Shadow-Walker",
-        "amount": "1"
+        "set": "NEO"
       },
       {
         "name": "Return to Action",
-        "amount": "1"
+        "amount": "1",
+        "set": "NEO"
       },
       {
-        "name": "Kaito's Pursuit",
-        "amount": "1"
+        "name": "Hero's Downfall",
+        "amount": "1",
+        "set": "VOW"
       },
       {
         "name": "Nezumi Prowler",
