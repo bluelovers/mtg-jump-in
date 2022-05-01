@@ -7112,6 +7112,104 @@
         "name": "Infernal Grasp",
         "appears": "50%"
       }
+    ],
+    "Samurai": [
+      {
+        "name": "The Wandering Emperor",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Usher of the Fallen",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Eiganjo Exemplar",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Selfless Samurai",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Imperial Subduer",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Goldmaw Champion",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Stalwart Valkyrie",
+        "amount": "1",
+        "set": "KHM"
+      },
+      {
+        "name": "Sunblade Samurai",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Wanderer's Intervention",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Sejiri Shelter",
+        "amount": "1",
+        "set": "ZNR"
+      },
+      {
+        "name": "Ancestral Katana",
+        "amount": "1",
+        "set": "NEO"
+      },
+      {
+        "name": "Borrowed Time",
+        "amount": "1",
+        "set": "MID"
+      },
+      {
+        "name": "Selfless Samurai",
+        "appears": "67%"
+      },
+      {
+        "name": "Twinblade Geist",
+        "appears": "33%"
+      },
+      {
+        "name": "The Wandering Emperor",
+        "appears": "50%"
+      },
+      {
+        "name": "The Restoration of Eiganjo",
+        "appears": "50%"
+      },
+      {
+        "name": "Stalwart Valkyrie",
+        "appears": "33%"
+      },
+      {
+        "name": "Seven-Tail Mentor",
+        "appears": "34%"
+      },
+      {
+        "name": "Axgard Braggart",
+        "appears": "33%"
+      },
+      {
+        "name": "Borrowed Time",
+        "appears": "50%"
+      },
+      {
+        "name": "Touch the Spirit Realm",
+        "appears": "50%"
+      }
     ]
   }
 }
